@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616522225319",
+    "firebase_url": "https://batterstatuspushnotification.firebaseio.com",
+    "project_id": "batterstatuspushnotification",
+    "storage_bucket": "batterstatuspushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616522225319:android:39060e049a5e09f8",
+        "android_client_info": {
+          "package_name": "com.c2s.batterychargingstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616522225319-10hj3qj0qagha46ja4pnhfedoos0ncgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c2s.batterychargingstatus",
+            "certificate_hash": "b30e0b6b6ec2e3716703548ae5485b1ba7929c69"
+          }
+        },
+        {
+          "client_id": "616522225319-usrlbpd6g0jsunrkmi63rqtarar55eth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrleHuYDqXIAAe10-fc_Cub12BQ2G0OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616522225319-usrlbpd6g0jsunrkmi63rqtarar55eth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

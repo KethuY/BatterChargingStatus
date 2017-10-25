@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery Charging Status</string>
+    <string name="age">Age</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="colon">:</string>
+</resources>
